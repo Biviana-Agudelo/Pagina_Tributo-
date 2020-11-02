@@ -9,7 +9,7 @@ h1{
     font-size: 50px;
 }
 #title{
-    background-image: url('/imagenes/FUNDADORES.jpg');
+    background-image: url('./imagenes/FUNDADORES.jpg');
     height: 900px;
     background-size: 90%;
     background-repeat: no-repeat;
